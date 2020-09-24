@@ -1,0 +1,18 @@
+
+
+const COLORS=
+{
+    ROXO_APP:'#191970' // -> Recomendação.
+    ,PRETO_APP:'#000'
+    ,BRANCO_APP:'#FFF'
+    ,CINZA_APP: '#91878f'
+    ,AMARELO_APP: '#FFC850'
+    ,AMARELOESCURO_APP:'#EEC900'
+    ,VERDE_APP:'#00ffa3'
+    ,VERDEESCURO_APP: '#228B22'
+    ,CINZACLARO_APP:'#7d7d7d'
+    ,CINZAINPUT_APP:'#808080'
+    ,VERMELHO_APP:'#FA685E'
+    
+} 
+export {COLORS}
